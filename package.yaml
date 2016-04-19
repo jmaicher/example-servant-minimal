@@ -27,7 +27,7 @@ executables:
 
 dependencies:
   - base
-  - servant == 0.6.*
+  - servant == 0.7.*
   - servant-server
   - transformers
   - aeson
